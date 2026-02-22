@@ -44,7 +44,7 @@ public class UserService
     // Hardkodovani credentials
     public bool Authenticate(string username, string password)
     {
-        if (username == "admin" && password == "admin123")
+        if (username == "admin" && password == "admin1234")
         {
             return true; // Hardkodovani admin credentials
         }
