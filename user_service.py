@@ -9,7 +9,7 @@ app = Flask(__name__)
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'password123',  # Hardkodovana lozinka
+    'password': 'password12342141241',  # Hardkodovana lozinka
     'database': 'testdb'
 }
 
